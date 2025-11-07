@@ -15,7 +15,7 @@
     </ul>
 
     <?php
-    // Menghubungkan ke database
+   
     include 'koneksi.php';
     ?>
 </body>
