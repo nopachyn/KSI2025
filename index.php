@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -20,3 +21,8 @@
     ?>
 </body>
 </html>
+=======
+<?php
+include 'tambah_data.php';
+?>
+>>>>>>> TambahData
